@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <pthread.h>
-
+#include <assert.h>
 #include "BENSCHILLIBOWL.h"
 
 // Feel free to play with these numbers! This is a great way to
